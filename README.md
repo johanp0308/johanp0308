@@ -6,7 +6,7 @@
 
 Soy un joven que ah estado activamente adentrandose en el mundo del desarrollo de software.
 
-Soy de Colombia 🇨🇴🇨🇴🇨🇴
+Soy de Colombia 
 Naci en el 2003 en Sabana de Torres, Un pueblito muy agricola de Santander.
 
 Mi padre fue el que mayor me impulso a este nuevo mundo, me enseño sobre los computadores.
