@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hola mi nombre es Johan Pachon 👋
 
+>Cada bug que resolvemos es un paso más cerca de la perfección en el software.
 
-**johanp0308/johanp0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Hola Bienvenido a mi repositorio, Soy un apasionado de la programacion los mejores
 
-Here are some ideas to get you started:
+Soy un joven que ah estado activamente adentrandose en el mundo del desarrollo de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Soy de Colombia 🇨🇴🇨🇴🇨🇴
+Naci en el 2003 en Sabana de Torres, Un pueblito muy agricola de Santander.
+
+Mi padre fue el que mayor me impulso a este nuevo mundo, me enseño sobre los computadores.
+Actualmente Estudio Ingieneria de Software y En un BootCamp de Programacion Web
+
+Deseo viajar por todo el mundo y conocer muchas culturas.
+
+###Lenguajes que eh usado son:
 
