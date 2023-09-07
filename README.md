@@ -3,6 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  "En programación, como en la vida, a menudo los pequeños detalles marcan la diferencia."
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
