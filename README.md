@@ -2,7 +2,7 @@
 
 >Cada bug que resolvemos es un paso más cerca de la perfección en el software.
 
-##Hola Bienvenido a mi repositorio, Soy un apasionado de la __programacion__ los mejores
+## Hola Bienvenido a mi repositorio, Soy un apasionado de la __programacion__ los mejores
 
 Soy un joven que ah estado activamente adentrandose en el mundo del desarrollo de software.
 
@@ -14,5 +14,5 @@ Actualmente Estudio Ingieneria de Software y estoy en un BootCamp de Programacio
 
 Deseo viajar por todo el mundo y conocer muchas culturas.
 
-###Lenguajes que eh usado son:
+### Lenguajes que eh usado son:
 
